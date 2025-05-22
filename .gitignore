@@ -1,17 +1,15 @@
-# Python
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.env
-.venv
-*.env
 
-# VSCode
-.vscode/
-
-# Jupyter
-.ipynb_checkpoints
-
-# Mac
+# OS junk
 .DS_Store
+Thumbs.db
