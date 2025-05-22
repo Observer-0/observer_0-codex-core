@@ -1,0 +1,18 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
